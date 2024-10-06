@@ -1,15 +1,7 @@
 # Welcome!
-I am Arozoid, a tiny little developer  
-hoping to bring good software to the world.
+I'm arozoid, and I like making programs.
 
-I code in all sorts of programming languages such as:
-  * Python
-  * Java
-  * Bash and a few more!  
-
-I hope you do good out there, as you know COVID-19  
-is still lurking around.  
-  
+I code in **Python**, **Javascript**, and **Lua**.
 **Have a good day!**
 
 <!---
