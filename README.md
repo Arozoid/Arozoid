@@ -1,7 +1,9 @@
 # Welcome!
 I'm arozoid, and I like making programs.
 
-I code in **Python**, **Javascript**, and **Lua**.
+
+I code in **Python, Javascript, and Lua**.
+
 **Have a good day!**
 
 <!---
