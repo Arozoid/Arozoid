@@ -1,4 +1,4 @@
-# arozoid - aspiring game developer
+# arozoid - aspiring software, game, and systems developer
 i like making programs (definitely not obvious)
 
 **i primarily code in:**
