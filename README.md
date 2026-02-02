@@ -10,10 +10,10 @@ i like making programs (definitely not obvious)
   - rust
 
 **if you have any inquiries, please find me on:**
-  - discord (arozoid)
+  - discord (@arozoid)
   - email (arozoidyt@gmail.com)
-  - youtube (youtube.com/arozoid)
-  - my website (arozoid.github.io)
+  - youtube ([youtube.com/arozoid](https://youtube.com/arozoid))
+  - my website ([arozoid.github.io](https://arozoid.github.io))
 
 **have a nice day ^^**
 
