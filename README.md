@@ -3,10 +3,10 @@ i like making programs (definitely not obvious)
 
 **i primarily code in:**
   - rust
-  - lua
-  - javascript
   - python
+  - javascript
   - bash
+  - lua
 
 **if you have any inquiries, please find me on:**
   - discord (@arozoid)
