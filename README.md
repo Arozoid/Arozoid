@@ -2,13 +2,11 @@
 i like making programs (definitely not obvious)
 
 **i primarily code in:**
-  - html
-  - css
+  - rust
+  - lua
   - javascript
   - python
   - bash
-  - rust
-  - lua
 
 **if you have any inquiries, please find me on:**
   - discord (@arozoid)
